@@ -1,4 +1,4 @@
-# **AM205 Project — Low-Rank Image Approximation**
+# **AM205 Project — Low-Rank Image Modeling with Complete and Missing Data: An Investigation of SVD and Nuclear-Norm Methods**
 
 *Lila Schoen & Anastasia Ahani*
 
