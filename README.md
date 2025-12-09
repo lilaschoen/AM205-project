@@ -24,7 +24,3 @@ This repository contains MATLAB code for comparing truncated SVD, nuclear-norm m
 * **image_recomposition_low_rank_factorization_function.m** — Low-rank factorization method for image completion.
 
 * **image_recomposition_naive_function.m** — Naive baseline reconstruction.
-
----
-
-If you want, I can also add a *How to Run* section or a short abstract.
